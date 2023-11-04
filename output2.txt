@@ -1,0 +1,63 @@
+Running 2^13_reversed.txt
+==============================
+>test_two_pivot's memory usage: 19.10546875 MiB.
+>test_two_pivot took 7729.5954259998325 miliseconds.
+>test_mergesort's memory usage: 19.48046875 MiB.
+>test_mergesort took 65.8339800002068 miliseconds.
+
+Running 2^16_sorted.txt
+==============================
+>test_two_pivot's memory usage: 22.42578125 MiB.
+>test_two_pivot took 459668.688832 miliseconds.
+>test_mergesort's memory usage: 24.39453125 MiB.
+>test_mergesort took 460.23047500057146 miliseconds.
+
+Running 2^9_sorted.txt
+==============================
+>test_two_pivot's memory usage: 20.83203125 MiB.
+>test_two_pivot took 58.85698499969294 miliseconds.
+>test_mergesort's memory usage: 20.83203125 MiB.
+>test_mergesort took 43.778446000033 miliseconds.
+
+Running 2^13.txt
+==============================
+>test_two_pivot's memory usage: 20.98828125 MiB.
+>test_two_pivot took 7062.332180999874 miliseconds.
+>test_mergesort's memory usage: 20.98828125 MiB.
+>test_mergesort took 60.01111400018999 miliseconds.
+
+Running 2^13_sorted.txt
+==============================
+>test_two_pivot's memory usage: 21.0078125 MiB.
+>test_two_pivot took 7386.327809999784 miliseconds.
+>test_mergesort's memory usage: 21.0078125 MiB.
+>test_mergesort took 59.00971699975344 miliseconds.
+
+Running 2^9.txt
+==============================
+>test_two_pivot's memory usage: 21.01953125 MiB.
+>test_two_pivot took 39.583754999512166 miliseconds.
+>test_mergesort's memory usage: 21.01953125 MiB.
+>test_mergesort took 36.19409299972176 miliseconds.
+
+Running 2^9_reversed.txt
+==============================
+>test_two_pivot's memory usage: 21.01953125 MiB.
+>test_two_pivot took 63.48969600003329 miliseconds.
+>test_mergesort's memory usage: 21.01953125 MiB.
+>test_mergesort took 30.83684400007769 miliseconds.
+
+Running 2^16_reversed.txt
+==============================
+>test_two_pivot's memory usage: 23.48046875 MiB.
+>test_two_pivot took 490772.27727199986 miliseconds.
+>test_mergesort's memory usage: 25.73828125 MiB.
+>test_mergesort took 357.7594329999556 miliseconds.
+
+Running 2^16.txt
+==============================
+>test_two_pivot's memory usage: 24.48828125 MiB.
+>test_two_pivot took 350.2672199992958 miliseconds.
+>test_mergesort's memory usage: 25.59765625 MiB.
+>test_mergesort took 222.44089400010125 miliseconds.
+
