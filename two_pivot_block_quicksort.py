@@ -73,12 +73,10 @@ def two_pivot_block_lomuto(arr, l=None, r=None):
     
 
 if __name__ == '__main__':
-    # test = [4, 5, 6, 2, 3, 5, 10, 9, 10, 11, 1]
     sys.setrecursionlimit(2**17)
-    # from benchmark import is_sorted
-    with open(os.path.join('dataset', '2^9_reversed.txt'), 'r') as f:
+
+    with open(os.path.join('dataset', '2^9.txt'), 'r') as f:
         test = [int(num) for num in f.read().split('\n')]
-    # print(two_pivot_block_lomuto(test, 1, 2))
     
     assert sorted(test) == two_pivot_block_lomuto(test[:])
     

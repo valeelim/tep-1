@@ -1,0 +1,45 @@
+Running 2^13_reversed.txt
+==============================
+>test_two_pivot took 6441.522260000056 miliseconds.
+>test_mergesort took 15.170508002483984 miliseconds.
+
+Running 2^16_sorted.txt
+==============================
+>test_two_pivot took 410028.4574569996 miliseconds.
+>test_mergesort took 160.086264997517 miliseconds.
+
+Running 2^9_sorted.txt
+==============================
+>test_two_pivot took 19.934621999709634 miliseconds.
+>test_mergesort took 0.7154129998525605 miliseconds.
+
+Running 2^13.txt
+==============================
+>test_two_pivot took 31.694397002866026 miliseconds.
+>test_mergesort took 19.401014997129096 miliseconds.
+
+Running 2^13_sorted.txt
+==============================
+>test_two_pivot took 6283.004713000992 miliseconds.
+>test_mergesort took 18.993227000464685 miliseconds.
+
+Running 2^9.txt
+==============================
+>test_two_pivot took 1.8447299989929888 miliseconds.
+>test_mergesort took 0.8489490028296132 miliseconds.
+
+Running 2^9_reversed.txt
+==============================
+>test_two_pivot took 23.88958899973659 miliseconds.
+>test_mergesort took 0.8032830010051839 miliseconds.
+
+Running 2^16_reversed.txt
+==============================
+>test_two_pivot took 411828.73709799966 miliseconds.
+>test_mergesort took 170.6126970020705 miliseconds.
+
+Running 2^16.txt
+==============================
+>test_two_pivot took 371.78839500120375 miliseconds.
+>test_mergesort took 205.87275299840258 miliseconds.
+

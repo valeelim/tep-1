@@ -1,3 +1,4 @@
+import os
 
 def merge_sort(arr):
     if len(arr) <= 1:
@@ -33,6 +34,8 @@ def merge(left, right):
 
 
 if __name__ == '__main__':
-    test = [1, 5, 6, 2, 3, 5, 2, 10]
+    with open(os.path.join('dataset', '2^9.txt'), 'r') as f:
+        test = [int(num) for num in f.read().split('\n')]
+
     assert sorted(test) == merge_sort(test)
     
